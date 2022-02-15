@@ -18,3 +18,4 @@ Pour cela deux étapes importantes:
 
 NB: il est important de mettre à jour le fichier Readme.md et d'ajouter les commandes que je dois lancer pour faire fonctionner votre application.
 
+# Les commandes à réaliser
